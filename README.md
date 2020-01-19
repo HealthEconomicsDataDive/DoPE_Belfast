@@ -19,3 +19,9 @@ LSOA_Rural_Urban_Classification_2011.csv: Office for National Statistics. 2011 R
 LSOA geospatial info: Office for National Statistics. Lower Layer Super Output Area (LSOA) boundaries. Super generalized and clipped. 2016. Available at: https://borders.ukdataservice.ac.uk/easy_download_data.html?data=England_lsoa_2011
 
 These datasets are licensed under the Open Government Licence 3.0. 
+
+Contact
+Robert Smith
+University of Sheffield
+rasmith3@sheffield.ac.uk
+https://github.com/RobertASmith
