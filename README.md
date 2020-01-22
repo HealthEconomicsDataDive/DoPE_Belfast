@@ -1,4 +1,12 @@
-# DoPE_Public
+# DoPE_Belfast: Determinants of Parkrun Engagement.
+
+Abstract
+Background: parkrun has been successful in encouraging people in England to participate in their weekly 5km running and walking events. However, there is substantial heterogeneity in parkrun participation across different communities in England: after controlling for travel distances, deprived communities have significantly lower participation rates.
+Methods: This paper expands on previous findings by investigating disparities in parkrun participation by ethnic density. We combined geo-spatial data available through the Office for National Statistics with participation data provided by parkrun, and fitted multivariable Poisson regression models to study the effect of ethnic density on participation rates at the Lower layer Super Output Level.
+Results: We find that areas with higher ethnic density have lower participation rates. This effect is independent of deprivation.
+Conclusions: An opportunity exists for parkrun to engage with these communities and reduce potential barriers to participation.
+
+Open Source Publication here: https://wellcomeopenresearch.org/articles/5-9
 
 This project is licensed under the terms of the MIT license.
 
